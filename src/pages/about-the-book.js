@@ -63,7 +63,7 @@ const ATB = (props) => {
                                     `,
                                 ebooks: {
                                     stratton: '',
-                                    barnes: '',
+                                    barnes: 'https://www.barnesandnoble.com/w/the-creation-of-the-physical-universe-to-heaven-to-hell-and-back-again-earl-thomas-ofarrell/1138988426?ean=9781648953279',
                                     amazon: 'https://www.amazon.com/Creation-Physical-Universe-Heaven-Again-ebook/dp/B08YHHQFPY/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1616525978&sr=8-1',
                                 },
                                 paperback: {

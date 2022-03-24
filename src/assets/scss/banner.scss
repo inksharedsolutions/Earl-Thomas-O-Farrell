@@ -2,7 +2,7 @@
 
     padding: 0 10%;
     height: 100vh;
-
+    position: relative;
     display: flex;
     flex-direction: column; 
     justify-content: center;
@@ -24,6 +24,11 @@
     .p-banner{
         color: #2ec4b6  !important;
         text-align: justify;
+
+        @media (max-width:1000px) {
+            text-align: center;
+        }
+
     }
 
     .btn-container{  

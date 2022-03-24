@@ -69,7 +69,7 @@ const ATB = (props) => {
                                 paperback: {
                                     amazon: 'https://www.amazon.com/Creation-Physical-Universe-Heaven-Again/dp/1648953263/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1616525978&sr=8-1',
                                     barnes: 'https://www.barnesandnoble.com/w/seven-islands-of-the-fog-thomas-terraforte/1121892486?ean=9781648952920',
-                                    booksamillion: 'https://www.booksamillion.com/p/Seven-Islands-Fog/Thomas-Terraforte/9781648952920?id=8158356429268',
+                                    booksamillion: 'https://www.booksamillion.com/p/Creation-Physical-Universe-Heaven-Hell/Earl-Thomas-OFarrell/9781648953262?id=8407851309216',
                                 },
                             }}
                         />

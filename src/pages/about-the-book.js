@@ -68,7 +68,7 @@ const ATB = (props) => {
                                 },
                                 paperback: {
                                     amazon: 'https://www.amazon.com/Creation-Physical-Universe-Heaven-Again/dp/1648953263/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1616525978&sr=8-1',
-                                    barnes: 'https://www.barnesandnoble.com/w/seven-islands-of-the-fog-thomas-terraforte/1121892486?ean=9781648952920',
+                                    barnes: 'https://www.barnesandnoble.com/w/the-creation-of-the-physical-universe-to-heaven-to-hell-and-back-again-earl-thomas-ofarrell/1138988426?ean=9781648953262',
                                     booksamillion: 'https://www.booksamillion.com/p/Creation-Physical-Universe-Heaven-Hell/Earl-Thomas-OFarrell/9781648953262?id=8407851309216',
                                 },
                             }}

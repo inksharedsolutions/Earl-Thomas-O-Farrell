@@ -668,9 +668,6 @@ const Banner = () => {
 
 While it's up to you to decide which version to believe, this book shows that both explanations are remarkably similar as the same events had to occur with both.
 
-
-<br/>
-Earl Thomas O'Farrell draws on his decades of experience as a researcher of religious beliefs, astrophysical theories, the cosmology of the universe to examine the spiritual and scientific beginnings of the universe. 
                                 </p>
 
                                 <div className="btn-container">

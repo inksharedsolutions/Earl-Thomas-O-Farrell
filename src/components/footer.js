@@ -27,15 +27,7 @@ const Footer = ()=>{
                                 </a>
                             </li>
 
-                            <li>
-                                <a 
-                                    target="_blank"
-                                    href="https://twitter.com/strattonpress/" rel="noreferrer">
-                                    <FontAwesomeIcon
-                                        className='font-awesome'
-                                        icon={faTwitter} />
-                                </a>
-                            </li>
+                           
 
                             <li>
                                 <a  
@@ -53,6 +45,16 @@ const Footer = ()=>{
                                     <FontAwesomeIcon 
                                         className='font-awesome'
                                         icon={faGoodreads} />
+                                </a>
+                            </li>
+
+                            <li>
+                                <a 
+                                    target="_blank"
+                                    href="https://twitter.com/strattonpress/" rel="noreferrer">
+                                    <FontAwesomeIcon
+                                        className='font-awesome'
+                                        icon={faTwitter} />
                                 </a>
                             </li>
                         </ul>

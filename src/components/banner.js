@@ -662,13 +662,15 @@ const Banner = () => {
                                     </span>
                                 </h1>
                                 <p className="p-banner">
-                                When you are in your darkest hour,
-                                <br/>
-                                Always remember to give God the power,
-                                <br/>
-                                When the road is rough and dry,
-                                <br/>
-                                Look up to the savior on high
+                                Explore how the physical universe was created as well as the spiritual version that explains our existence.
+
+                      <br/>
+
+While it's up to you to decide which version to believe, this book shows that both explanations are remarkably similar as the same events had to occur with both.
+
+
+<br/>
+Earl Thomas O'Farrell draws on his decades of experience as a researcher of religious beliefs, astrophysical theories, the cosmology of the universe to examine the spiritual and scientific beginnings of the universe. 
                                 </p>
 
                                 <div className="btn-container">

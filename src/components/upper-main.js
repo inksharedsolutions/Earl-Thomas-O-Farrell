@@ -35,10 +35,9 @@ const UpperMain =()=>{
                                 <span>Author & Writer</span>
 
                                 <p>
-                                Earl Thomas O’Farrell the Author of The Essence of Life (Poetry and Life in Motion) parts 1 and 2. A proud mother of 3 wonderful children Conrad, Clifford, and Chamara Fahie. 
-                                Earl Thomas O’Farrell was born on the Island of Anguilla but at the age of six she migrated to Saint Thomas U.S Virgin Islands. Earl Thomas O’Farrell went from a Junior A level in the British to a third grade level at the 
-                                Seventh Day Adventist School. From there her journey was on to Madison Elementary School and then at Nazareth Bay High School where she graduated in 1978. Upon graduating she thought about 
-                                the schools and furthering my education so she took some courses at The College of the Virgin Islands but before completing she joined the US Army and deployed to Europe.
+                                    
+I have written a summary outline type of biography rather than a story type, because I would like this to be about the book and getting the potential reader interested in buying the book. Therefore, along with the biography I have included two short theses about the book that the potential reader should know:
+
                                 </p>
 
                                 <button>

@@ -49,7 +49,7 @@ const ATB = (props) => {
 
                             <ul>
                                 <li>One, the How and Why I have written the book which should be more interesting to the potential reader than facts  about my life;</li>
-                                <li>And then, I have included a prequel to the book to explain why the ideas and theories presented in the book are different from the present theories and present answers to questions presently in quire to the science community today;</li>
+                                <li>And then, I have included a prequel to the book to explain why the ideas and theories presented in the book are different from the present theories and present answers to questions presently inquire to the science community today;</li>
 
                                 <h4>These two theses show the potential reader things such as (for a brief example): </h4>
                                 <li>The how and why Super Massive Black Holes that shouldn’t exists according to science, do exists, and how and why they do;</li>

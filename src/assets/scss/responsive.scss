@@ -37,7 +37,7 @@
         margin: 0 auto;
     }
 }
-
+x   
 @media screen and (min-width : 1250px) {
     .img-wrapper-form {
         &:before {
@@ -51,7 +51,7 @@
 
 @media screen and (max-width : 1024px) {
     .banner-section {
-        height: 100vh;
+        height: auto !important;
     }
 
     .banner-content-wrapper{
@@ -71,7 +71,7 @@
 
 @media screen and (max-width : 990px) {
 
-
+x   
     #privacy-policy-content,
     #terms-and-conditions-content {
         margin: 4em 1em !important;

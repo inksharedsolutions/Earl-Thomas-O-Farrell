@@ -211,7 +211,7 @@
         }
     }
     input[name="submit"]{
-        background: #29616b;
+        background: none;
         border: none;
         color: #ffffff;
         cursor: pointer;
@@ -277,7 +277,7 @@
     justify-content: flex-start;
     text-align: center;
     margin-top: 3em;
-    color: #ffcafb !important ;
+  
     ul{
         padding: 0;
         display: flex;
@@ -292,6 +292,7 @@
         }
     }
     p{
+        color: #ffcafb !important ;
         font-size: 14px;
     }
 }

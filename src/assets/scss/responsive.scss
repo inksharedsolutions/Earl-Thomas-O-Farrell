@@ -3,7 +3,7 @@
 */
 @media screen and (max-height : 550px) {
     .banner-content-wrapper {
-        height: 155vh;
+        height: auto;
     }
 }
 // .banner-content-wrapper {
@@ -71,7 +71,6 @@
 
 @media screen and (max-width : 990px) {
 
-x   
     #privacy-policy-content,
     #terms-and-conditions-content {
         margin: 4em 1em !important;
@@ -253,7 +252,7 @@ x
     }
 
     .banner-content-wrapper {
-        height: 100vh !important;
+        height: auto!important;
     }
 
     .book-img-wrapper {

@@ -199,7 +199,11 @@
         font-size: 3em;
         color: #5b60ff;
     }
+    p{
+        color: #fff !important;
+    }
 }
+    
 
 .form-newsletter-wrapper{
     input[name="email"]{
@@ -231,7 +235,7 @@
     background: #2a2454;
     padding: 5% 0;
     #footer-info{
-        text-align: center;
+        text-align: center;x
         h1{
             font-size: 1em;
             color: #e79cff;
